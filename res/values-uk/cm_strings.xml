@@ -536,7 +536,7 @@
   <string name="lockscreen_battery_status_charging">Показувати під час зарядки</string>
   <string name="lockscreen_battery_status_alwayson">Показувати завжди</string>
   <string name="lockscreen_battery_status_alwaysoff">Чи не показувати</string>
-  <string name="lockscreen_target_info">Потягніть повзунок до мети, щоб призначити ярлик</string>
+  <string name="lockscreen_target_info">Потягніть повзунок до цілі, щоб призначити ярлик</string>
   <string name="lockscreen_target_title">Ярлики екрану блокування</string>
   <string name="lockscreen_target_summary">Установка або настройка ярликів екрану блокування</string>
   <string name="lockscreen_target_reset">Відновлено ярлики екрану блокування за замовчуванням</string>
@@ -665,7 +665,7 @@
   <string name="backlight_timeout_title">Тривалість підсвічування</string>
   <string name="backlight_timeout_unlimited">Чи не вимикати</string>
   <string name="backlight_summary_disabled">Вимкнена</string>
-  <string name="backlight_summary_enabled_with_timeout">Включена <xliff:g id="timeout">% s </ xliff: g></string>
+  <string name="backlight_summary_enabled_with_timeout">Включена <xliff:g id="timeout">%s</xliff:g></string>
   <string name="backlight_summary_enabled">Включена завжди</string>
   <string name="lockscreen_background">​​Фон</string>
   <string name="lockscreen_background_style_title">Шпалери екрану блокування</string>
@@ -673,7 +673,7 @@
   <string name="background_wallpaper">Користувальницькі шпалери</string>
   <string name="background_result_successful">Шпалери змінені</string>
   <string name="background_result_not_successful">Шпалери не змінені</string>
-  <string name="setting_lockscreen_background">​​Установка шпалер \ u2026</string>
+  <string name="setting_lockscreen_background">​​Установка шпалер\u2026</string>
   <string name="accessibility_home_button_answers_call_prerefence_title">Відповідати на виклик кнопкою «Додому»</string>
   <string name="confirm_delete_apn">Точка доступу (APN) буде видалена.</string>
   <string name="status_bar_title">Рядок стану</string>
@@ -683,7 +683,7 @@
   <string name="status_bar_style_icon_landscape">Горизонтальний значок</string>
   <string name="status_bar_style_circle">Круг</string>
   <string name="status_bar_style_text">Текст</string>
-  <string name="status_bar_style_hidden">Чи не показувати індикатор</string>
+  <string name="status_bar_style_hidden">Не показувати індикатор</string>
   <string name="status_bar_battery_show_percent_title">Показувати відсоток заряду</string>
   <string name="status_bar_signal_text_title">Стиль індикатора сигналу</string>
   <string name="status_bar_signal_style_icon">Значок</string>
@@ -725,7 +725,7 @@
   <string name="gestures_down_spen_title_head">Провести вниз</string>
   <string name="gestures_long_spen_title_head">Довге натиснення</string>
   <string name="gestures_double_spen_title_head">Подвійне натискання</string>
-  <string name="gestures_action_empty">Ні дії</string>
+  <string name="gestures_action_empty">Немає дії</string>
   <string name="gestures_action_home">Додому</string>
   <string name="gestures_action_back">Назад</string>
   <string name="gestures_action_menu">Меню</string>
@@ -780,7 +780,7 @@
   <string name="app_ops_summaries_wifi_change">змін. стану Wi-Fi</string>
   <string name="app_ops_summaries_bluetooth_change">змін. стану bluetooth</string>
   <string name="app_ops_summaries_data_change">змін. стану моб. інтернету</string>
-  <string name="app_ops_summaries_alarm_wakeup">висновок з режиму сну</string>
+  <string name="app_ops_summaries_alarm_wakeup">вивід з режиму сну</string>
   <string name="app_ops_summaries_send_mms">відправка MMS</string>
   <string name="app_ops_summaries_read_mms">читання MMS</string>
   <string name="app_ops_summaries_write_mms">створення MMS</string>
@@ -793,7 +793,7 @@
   <string name="app_ops_labels_modify_call_log">Зміна списку дзвінків</string>
   <string name="app_ops_labels_read_calendar">Читання даних календаря</string>
   <string name="app_ops_labels_modify_calendar">Зміна календаря</string>
-  <string name="app_ops_labels_notification_toast">Висновок повідомлення</string>
+  <string name="app_ops_labels_notification_toast">Вивід повідомлення</string>
   <string name="app_ops_labels_call_phone">Телефонний дзвінок</string>
   <string name="app_ops_labels_read_sms_db">Читання БД SMS-повідомлень</string>
   <string name="app_ops_labels_write_sms_db">Запис БД SMS-повідомлень</string>
@@ -855,7 +855,7 @@
   <string name="wifi_ibss_freq_title">Канал/Частота</string>
   <string name="wifi_channel">Канал</string>
   <string name="wifi_mhz">МГц</string>
-  <string name="voice_wakeup_settings_title">Увімкнення голосової командою</string>
+  <string name="voice_wakeup_settings_title">Увімкнення голосовою командою</string>
   <string name="voice_wakeup_retrain_title">Перезаписати зразок голосу</string>
   <string name="voice_wakeup_activity_title">Дія для запуску</string>
   <string name="voice_wakeup_default_activity">Google Now</string>
